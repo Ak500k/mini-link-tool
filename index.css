@@ -1,0 +1,77 @@
+/*Ak500*/
+
+*{padding: 0; 
+  margin: 0; 
+  box-sizing: border-box; 
+  font-family: 'Luckiest Guy', cursive;}
+
+
+section{
+    width: 100%;
+    height: 100%;
+    display: flex;
+    background: linear-gradient(to top , #00FF6C, #00AAFF);
+    justify-content: center;
+
+}
+section h2{
+  text-shadow: 2px 5px 5px #2f3542; 
+  word-spacing: 10px; 
+  margin-bottom: 15px; 
+  font-size:2.5rem; 
+  text-transform: uppercase; 
+  letter-spacing: 2px; 
+  color: white;}
+
+  section h4{  
+    font-size:1rem; 
+    text-transform: lowercase;  
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+
+.logo img {
+    width: 100px;
+    border-radius: 180px;
+}
+
+.label{
+    color: white;
+    padding: 8px 16px;
+    font-family: Arial;
+    border-radius: 8px;
+}
+
+.links{
+    background-color: #f06a7c;
+}
+
+
+
+
+a:link, a:visited {
+    color: black;
+    border: 2px solid rgb(16, 112, 29);
+    padding: 16px 190px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    border-radius: 12px;
+    transition-duration: 0.2s;
+    display: flex;
+    justify-content: flex-start;
+    flex-direction: column;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+  }
+  
+  a:hover, a:active {
+    background-color:#f06a7c;
+    color: white;
+    
+  }
+ 
+
+
+  
+
+
