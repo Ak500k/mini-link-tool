@@ -80,10 +80,6 @@ a:link, a:visited {
     
   }
  
-.head1{
-  padding: 10px;
-  flex: 50%;
-}
 
 @media (max-width: 475px) {
   section {
@@ -102,17 +98,6 @@ a:link, a:visited {
   }
   
 }
-@media (max-width: 475px){
-  .head1{
-    align-items: center;
-    flex-direction: column;
-    justify-content: center;
-    position:sticky;
-   
-  }
-  
-}
-
 
 
 
