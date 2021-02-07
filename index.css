@@ -70,7 +70,6 @@ a:link, a:visited {
     border-radius: 12px;
     transition-duration: 0.2s;
     display: flex;
-    #justify-content: flex-start;
     flex-direction: column;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
   }
@@ -81,7 +80,10 @@ a:link, a:visited {
     
   }
  
-
+.head1{
+  padding: 10px;
+  flex: 50%;
+}
 
 @media (max-width: 475px) {
   section {
@@ -91,3 +93,26 @@ a:link, a:visited {
   }
 
 }
+@media (max-width: 475px){
+  .details{
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+   
+  }
+  
+}
+@media (max-width: 475px){
+  .head1{
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+    position:sticky;
+   
+  }
+  
+}
+
+
+
+
