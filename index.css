@@ -88,7 +88,6 @@ a:link, a:visited {
   @media (max-width: 335px){
     a:link, a:visited{
       padding: 16px 100px;
-      font-family: Verdana, Geneva, Tahoma, sans-serif;
      
     }
 } 
