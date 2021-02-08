@@ -82,12 +82,12 @@ a:link, a:visited {
 @media (max-width: 468px){
   a:link, a:visited{
     padding: 16px 125px;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
    
   }
+  
   @media (max-width: 335px){
     a:link, a:visited{
-      padding: 16px 100px;
+      padding: 16px 90px;
      
     }
 } 
