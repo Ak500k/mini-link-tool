@@ -1,3 +1,3 @@
 # mini-link-tool
 
-### [Click here to view](https://ak500k.github.io/mini-link-tool/){:terget="\_blank"} 👈
+### [Click here to view](https://ak500k.github.io/mini-link-tool/){:target="\_blank"} 👈
